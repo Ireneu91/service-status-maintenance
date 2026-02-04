@@ -7,22 +7,22 @@ output atteso.
 
  #Service status maintenance
 
- ##Scopo dello script
+ ## Scopo dello script
 
  Lo script *Service status maintenance* ha lo scopo di **restituire una stringa di stato del servizio**.
 
- ##Prerequisiti
+ ## Prerequisiti
 
  Per la realizzazione di questo semplice programma, si richiedeva la conoscenza del `linguaggio PHP`.
 
- ##Comandi di esecuzione
+ ## Comandi di esecuzione
 
  I comandi di esecuzione sono i seguenti:
  -php status.php
  -php status.php api
  -php status.php database
 
- ##Output atteso
+ ## Output atteso
 
  Gli output attesi sono i seguenti:
  
